@@ -16,7 +16,7 @@ The first screen will let you choose your team and after clicking one of the box
 
 The other players will be spawned on the map after they do the same (choose a team).
 
- ![Weapon](img\Weapon.png)
+ ![Weapon](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/Weapon.png)
 
 Next step is to pick up a **Weapon**. Next to every base you will have 1 weapon that can be picked up by just walking over it. You will be able to fire to every other character on the map.
 
@@ -24,19 +24,19 @@ Next step is to pick up a **Weapon**. Next to every base you will have 1 weapon 
 
 On the center of the map you will find **The White Flag**, pick up this item by just walking over it and bring it back to you base (where your character was spawned) for scoring a point for your team.
 
-![TeamBase](img\TeamBase.png)
+![TeamBase](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/TeamBase.png)
 
 ![PlayerScored](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/PlayerScored.png)
 
 If other player picked up the flag before you did it, you can just check above the player if they have the white flag icon, then you will have to shoot them for make them drop the flag and bring it to your base.
 
-![Enemy](img\Enemy.png)
+![Enemy](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/Enemy.png)
 
 ![FlagDropped](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/FlagDropped.png)
 
 If your team makes it to 3 points, your team wins and the game will show the message to every player on the match. The game will restart automatically after 3 seconds.
 
-![TeamWin](img\TeamWin.png)
+![TeamWin](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/TeamWin.png)
 
 ## Controls
 
