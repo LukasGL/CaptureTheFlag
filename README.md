@@ -8,11 +8,11 @@ This game can be played on **Dedicated Server** and **Listen Server**, it works 
 
 ## Game Flow
 
-![MenuScreen](img\MenuScreen.png)
+![MenuScreen](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/MenuScreen.png)
 
 The first screen will let you choose your team and after clicking one of the boxes you will be automatically spawned on the match.
 
-![Spawned](img\Spawned.png)
+![Spawned](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/Spawned.png)
 
 The other players will be spawned on the map after they do the same (choose a team).
 
@@ -20,19 +20,19 @@ The other players will be spawned on the map after they do the same (choose a te
 
 Next step is to pick up a **Weapon**. Next to every base you will have 1 weapon that can be picked up by just walking over it. You will be able to fire to every other character on the map.
 
-![WhiteFlag](img\WhiteFlag.png)
+![WhiteFlag](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/WhiteFlag.png)
 
 On the center of the map you will find **The White Flag**, pick up this item by just walking over it and bring it back to you base (where your character was spawned) for scoring a point for your team.
 
 ![TeamBase](img\TeamBase.png)
 
-![PlayerScored](img\PlayerScored.png)
+![PlayerScored](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/PlayerScored.png)
 
 If other player picked up the flag before you did it, you can just check above the player if they have the white flag icon, then you will have to shoot them for make them drop the flag and bring it to your base.
 
 ![Enemy](img\Enemy.png)
 
-![FlagDropped](img\FlagDropped.png)
+![FlagDropped](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/FlagDropped.png)
 
 If your team makes it to 3 points, your team wins and the game will show the message to every player on the match. The game will restart automatically after 3 seconds.
 
