@@ -8,7 +8,7 @@ This game can be played on **Dedicated Server** and **Listen Server**, it works 
 
 ## Game Flow
 
-![MenuScreen](https://github.com/LukasGL/CaptureTheFlag/blob/main/img/MenuScreen.png)
+![MenuScreen](http://github.com/LukasGL/CaptureTheFlag/blob/main/img/MenuScreen.png)
 
 The first screen will let you choose your team and after clicking one of the boxes you will be automatically spawned on the match.
 
